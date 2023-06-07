@@ -4,6 +4,9 @@
 
 PatronPlus is a platform designed to revolutionize creator support by providing a decentralized and censorship-resistant ecosystem. It enables fans and supporters to directly contribute to their favorite creators using cryptocurrencies and other means of support. With PatronPlus, creators can access their funds without worrying about account suspension or deplatforming, as the platform is built on smart contracts deployed to the blockchain network.
 
+### Video Demo
+https://vimeo.com/manage/videos/834209937
+
 ## Problem
 
 Existing creator support platforms suffer from centralization and lack of censorship resistance. Creators often face the risk of being suspended or deplatformed, resulting in restricted access to their funds. Moreover, these platforms are not universally accessible, leaving creators in certain regions or countries at a disadvantage.
